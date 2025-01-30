@@ -1,0 +1,22 @@
+.st-key-masterai{
+    text-align: center;
+}
+.st-key-comic{
+    text-align: center;
+}
+.st-key-masterai button{
+    
+    background-color: #f44336;
+    color: aliceblue;
+    width: 50%;
+}
+
+.st-key-comic button{
+    background-color: blue;
+    color: aliceblue;
+    width: 50%;
+}
+
+.st-title{
+    color:beige
+}
