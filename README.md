@@ -8,7 +8,10 @@ MasterAI is an AI-powered learning platform that offers personalized course reco
 4. Run MasterAI- streamlit run MasterAI2.py
 
 # Screenshots
+
+To watch the demo of the application click on the below link
 https://github.com/user-attachments/assets/24dd2f69-8e3c-4615-b78e-8c670a3c683e
+
 ![Image](https://github.com/user-attachments/assets/7d68f050-2d67-437e-89d3-b1f2035c9092)
 ![Image](https://github.com/user-attachments/assets/6f0493d1-8feb-4ea3-bf30-c84e4a6b57dc)
 ![Image](https://github.com/user-attachments/assets/038e1d86-dfaf-409d-8386-15d50d71ce16)
